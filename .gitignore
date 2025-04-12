@@ -181,5 +181,5 @@ cython_debug/
 *.txt
 *.zip
 asia_txt_files/
-
+*.json
 
